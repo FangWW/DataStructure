@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>welcome</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Hello</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Hello\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>welcome</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>welcome\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Hello\src\Hello.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>welcome\src\Welcome.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

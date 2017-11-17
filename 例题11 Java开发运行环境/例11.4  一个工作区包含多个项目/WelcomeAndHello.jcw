@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>WelcomeAndHello</label>
+	</settings>
+	<users>
+		<user>
+			<path>WelcomeAndHello.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Hello\Hello.jcp</path>
+		</project>
+		<project>
+			<path>welcome\welcome.jcp</path>
+		</project>
+	</projects>
+</workspace>

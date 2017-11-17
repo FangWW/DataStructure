@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Random</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Random</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Random\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Random\src\ArraySeqSearch.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<breakpoints>
+		<breakpoint>
+			<path>Random\src\ArraySeqSearch.java</path>
+			<class>ArraySeqSearch</class>
+			<line>9</line>
+			<enable>true</enable>
+		</breakpoint>
+		<breakpoint>
+			<path>Random\src\ArraySeqSearch.java</path>
+			<class>ArraySeqSearch</class>
+			<line>47</line>
+			<enable>true</enable>
+		</breakpoint>
+	</breakpoints>
+</workspace_user>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SortedArray</label>
+	</settings>
+	<users>
+		<user>
+			<path>SortedArray.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Keyword\Keyword.jcp</path>
+		</project>
+		<project>
+			<path>SortedArray\SortedArray.jcp</path>
+		</project>
+	</projects>
+</workspace>
